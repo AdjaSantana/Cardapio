@@ -1,0 +1,91 @@
+body{
+    background-color: #ffc685;
+}
+
+.titulo{
+    font-size: 45px;
+    text-align: center;
+    
+}
+
+.subtitulo{
+    text-align: center;
+    font-style: italic;
+    color: brown;
+}
+
+.atendimento{
+    font-size: 20px;
+}
+
+.sabores{
+    font-size: 40px;
+    text-align: center;
+}
+
+/*Primeira sessão*/
+.primeira{
+    padding-top: 3%;
+    width: 100%;
+}
+
+.pCard{
+    text-align: center;
+    border-radius: 20px;
+    width: 25%;
+    display: inline;
+    float: left;
+    
+}
+
+.sCard{
+    text-align: center;
+    border-radius: 20px;
+    width: 10%;
+    padding-left: 10%;
+    padding-right: 30%;
+    display: flex;
+    float: left;
+}
+
+.tCard{
+    text-align: center;
+    border-radius: 20px;
+    width: 28%;
+    padding-left: 5%;
+    display: inline;
+    float: right;
+}
+
+/*Segunda sessão*/
+.segunda{
+ padding-top: 25%;
+ width: 100%;
+}
+
+.quaCard{
+    text-align: center;
+    border-radius: 20px;
+    width: 25%;
+    display: inline;
+    float: left;
+}
+
+.quiCard{
+    text-align: center;
+    border-radius: 20px;
+    width: 25%;
+    padding-left: 5%;
+    padding-right: 4%;
+    display: inline;
+    float: left;
+}
+
+.sCard{
+    text-align: center;
+    border-radius: 20px;
+    width: 10%;
+    padding-left: 1%;
+    display: inline;
+    float: right;
+}
