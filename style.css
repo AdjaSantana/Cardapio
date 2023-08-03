@@ -2,10 +2,31 @@ body{
     background-color: #ffc685;
 }
 
+.imgLogo{
+    width: 120px;
+    text-align: left;
+}
+
+.imgMenu{
+    width: 65px;
+    padding-bottom: 7px;
+}
+
+.wpp{
+    width: 52px;
+    padding-bottom: 14px;
+}
+
+.links{
+    text-align: right;
+    padding-left: 1020px;
+    display: inline-block;
+}
+
 .titulo{
     font-size: 45px;
     text-align: center;
-    
+    padding-top: 25px;
 }
 
 .subtitulo{
