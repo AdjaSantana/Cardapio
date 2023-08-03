@@ -23,69 +23,47 @@ body{
     text-align: center;
 }
 
-/*Primeira sessão*/
-.primeira{
-    padding-top: 3%;
-    width: 100%;
+section{
+    margin: 40px;
+    padding-left: 9%;
 }
 
-.pCard{
+.topCard{
+    padding-bottom: 20px;
+}
+
+.oneCard{
     text-align: center;
-    border-radius: 20px;
-    width: 25%;
-    display: inline;
-    float: left;
-    
+    display: inline-block;
+    padding-left: 9%;
 }
 
-.sCard{
+.twoCard{
     text-align: center;
-    border-radius: 20px;
-    width: 10%;
-    padding-left: 10%;
-    padding-right: 30%;
-    display: flex;
-    float: left;
+    padding-left: 12%;
+    display: inline-block;
 }
 
-.tCard{
+.threeCard{
     text-align: center;
-    border-radius: 20px;
-    width: 28%;
-    padding-left: 5%;
-    display: inline;
-    float: right;
+    padding-left: 11%;
+    display: inline-block;
 }
 
-/*Segunda sessão*/
-.segunda{
- padding-top: 25%;
- width: 100%;
-}
-
-.quaCard{
+.fourCard{
     text-align: center;
-    border-radius: 20px;
-    width: 25%;
-    display: inline;
-    float: left;
+    padding-left: 3%;
+    display: inline-block;
 }
 
-.quiCard{
+.fiveCard{
     text-align: center;
-    border-radius: 20px;
-    width: 25%;
-    padding-left: 5%;
-    padding-right: 4%;
-    display: inline;
-    float: left;
+    padding-left: 7%;
+    display: inline-block;
 }
 
-.sCard{
+.sixCard{
     text-align: center;
-    border-radius: 20px;
-    width: 10%;
-    padding-left: 1%;
-    display: inline;
-    float: right;
+    padding-left: 11%;
+    display: inline-block;
 }
